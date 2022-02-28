@@ -26,35 +26,12 @@ let track = document.createElement('audio');
 //All songs list 
 let All_song = [
     {
-        name: "Near the Cross",
+        name: "Song 1",
         path: "music/song1.mp3",
         img: "img/img1.jpg",
-        singer: "William Doane"
-    },
-    {
-        name: "Abide with me",
-        path: "music/song2.mp3",
-        img: "img/img2.jpg",
-        singer: "William Monk"
-    },
-    {
-        name: "Amazing grace",
-        path: "music/song3.mp3",
-        img: "img/img3.jpg",
-        singer: "Virginia Harmony"
-    },
-    {
-        name: "Battle Cry",
-        path: "music/song4.mp3",
-        img: "img/img4.jpg",
-        singer: "William Sherwin"
-    },
-    {
-        name: "Jesus Paid it All",
-        path: "music/song5.mp3",
-        img: "img/img5.jpg",
-        singer: "John Grape"
+        singer: "Singer"
     }
+   
 ];
 
 
